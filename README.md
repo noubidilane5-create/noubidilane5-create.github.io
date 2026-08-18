@@ -1,25 +1,5 @@
-# Folio— Freelance Portfolio Template (HTML · Tailwind · Alpine.js)
-#### Preview
+# Mein Portfolio
 
- - [Demo](https://themewagon.github.io/folio-tailwind/)
+Persönliches Portfolio von Steve Dilane Noubi Nkemegne — Informatikstudent mit Fokus auf Java, Spring Boot und React.
 
-#### Download
- - [Download from ThemeWagon](https://themewagon.com/themes/folio-tailwind/)
-
-## Getting Started
-
-1. Clone Repository
-```
-git clone https://github.com/themewagon/folio-html.git
-```
-
-## Author 
-```
-Design and code is completely written by Laurent Begey and development team. 
-```
-
-## License
-
- - Design and Code is Copyright &copy; <a href="https://lbegey78.gumroad.com/" target="_blank">Laurent Begey</a>
- - Licensed cover under [MIT]
- - Distributed by <a href="https://themewagon.com" target="_blank">ThemeWagon</a>
+🔗 https://noubidilane5-create.github.io
